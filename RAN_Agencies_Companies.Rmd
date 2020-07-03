@@ -1,0 +1,28 @@
+---
+title: "RAN Agencies & Companies"
+output: html_document
+---
+
+
+# Agencies
+http://www.tanint.com/ <br/>
+http://www.firstpointgroup.com/ <br/>
+http://www.networkersplc.com/ <br/>
+http://ntww.com/ <br/>
+http://www.eceltd.com/company/career <br/>
+http://www.msiuk.com <br/>
+http://www.pentaconsulting.com/ <br/>
+http://alternatecommunications.com/ <br/>
+https://decompeople.com/vacancies/ <br/>
+https://omnitele.com/jobs/ <br/>
+https://www.nextgengr.com/jobs/ <br/>
+https://www.projectpeople.com <br/>
+http://www.kordia.com.au/ <br/>
+http://www.kordia.com.nz/ <br/>
+
+# Service companies
+https://www.yupanatech.com/ <br/>
+http://www.nexius.com/ <br/>
+http://www.darlan.com/ <br/>
+http://www.amdocs.com <br/>
+https://omnitele.com/jobs/ <br/> 
