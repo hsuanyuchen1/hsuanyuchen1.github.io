@@ -6,3 +6,4 @@
 - [EN-DC Mobility](https://hsuanyuchen1.github.io/endcMobility.html)
 - [NR Frequency Information](https://hsuanyuchen1.github.io/NrFreqInfo.html)
 - [Secondary RAT Data Usage Report](https://hsuanyuchen1.github.io/SecondaryRatDataUsageReport.html)
+- [NSA Split Bearer](https://hsuanyuchen1.github.io/splitBearer.html)
